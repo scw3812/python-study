@@ -1,7 +1,6 @@
 import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
 
 matplotlib.rcParams['font.family'] = 'AppleGothic'
 matplotlib.rcParams['font.size'] = 15
